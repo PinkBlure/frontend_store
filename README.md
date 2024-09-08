@@ -2,8 +2,6 @@
 
 Este es un proyecto que he ido creado a medida que seguía el curso de Udemy de Juan de la Torre. Podrás encontrar el enlace al curso al final del README.
 
-## Cambios con respecto al proyecto original.
-
 ## Enlace al curso de Udemy
 
 El curso de Udemy es Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL por Juan Pablo de la Torre Valdez.
